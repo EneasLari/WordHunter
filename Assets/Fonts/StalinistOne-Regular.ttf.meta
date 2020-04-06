@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ba3bab384bc10eb47a0ef0d1cba18158
+timeCreated: 1518125089
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stalinist One
+  fontNames:
+  - Stalinist One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
